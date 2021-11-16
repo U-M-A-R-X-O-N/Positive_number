@@ -1,0 +1,22 @@
+body {
+  background-image: linear-gradient(to left, black, orangered);
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-family: "Rubik One", sans-serif;
+  font-size: 150px;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  background-image: linear-gradient(to left, black, white);
+  display: table;
+  margin: 20px auto;
+  color: white;
+  border-radius: 5px;
+  mix-blend-mode: multiply;
+  padding: 15px 110px;
+}
